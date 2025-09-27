@@ -84,6 +84,11 @@ GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
 
 GTKWAVE | Use the -h, --help command line flags to display help.
 ```
+</details>
+
+<details>
+
+<summary>Day 1 - Introduction to Verilog RTL Design and Synthesis </summary>
 
 
 # Day 1 - Introduction to Verilog RTL Design and Synthesis
