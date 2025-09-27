@@ -88,7 +88,7 @@ GTKWAVE | Use the -h, --help command line flags to display help.
 
 <details>
 
-<summary>Day 1 - Introduction to Verilog RTL Design and Synthesis </summary>
+<summary>WEEK 1 - Introduction to Verilog RTL Design,Synthesis and optimization </summary>
 
 
 # Day 1 - Introduction to Verilog RTL Design and Synthesis
@@ -139,11 +139,6 @@ The same testbench can be used to verify RTL and Synthesized Netlist.
 
 <img width="1920" height="1043" alt="showlogic" src="https://github.com/user-attachments/assets/41fd2b87-9c46-40b9-a2ef-1319120aafc2">
 
-</details>
-
-<details>
-
-<summary>Day 2 - Timing libs, Hierarchical vs Flat Synthesis and Efficient Flop Coding Styles </summary>
 
 # Day 2 - Timing libs, Hierarchical vs Flat Synthesis and Efficient Flop Coding Styles
 
@@ -280,10 +275,9 @@ This can be realized just by wiring.
 So we expect no hardware which is also seen in the screenshot below, analysis after synthesis and show. The command 'abc' is not required for mapping when there are no cells.
 
 <img width="918" alt="mult8_syn" src="https://github.com/sukanyasmeher/sfal-vsd/assets/166566124/dd1b4634-50ed-4229-9d82-80689bafb7e7">
-</details>
 
-<details>
-	<summary>Day 3 - Combinational and Sequential Optimizations </summary>
+
+
 	
 # Day 3 - Combinational and Sequential Optimizations
 
@@ -567,11 +561,6 @@ We see only 3 flops after the synthesis and also seen in synthesis report after 
 
 <img width="1167" alt="21-counter-opt2" src="https://github.com/sukanyasmeher/sfal-vsd/assets/166566124/11cd582b-4ccd-4b99-82e2-1c68c92db131">
 
-</details>
-
-<details>
-
- <summary>Day 4 - GLS, Blocking vs Non-blocking and Synthesis-Simulation Mismatch</summary>
  
 # Day 4 - GLS, Blocking vs Non-blocking and Synthesis-Simulation Mismatch
 
@@ -769,10 +758,7 @@ The GLS output is shown below. In this case, `d` takes the current value of `x` 
 
 <img width="1920" height="1042" alt="Image" src="https://github.com/user-attachments/assets/4e61ce3d-0957-473f-ab00-47c177a68648">
 
-</details>
 
-<details>
-	<summary>Day 5 - Introduction to DFT</summary>
 	
 # Day 5 - Optimization in Synthesis 
 
