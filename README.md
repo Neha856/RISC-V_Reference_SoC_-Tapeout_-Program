@@ -79,6 +79,13 @@ See the man page for details.
 ```
 neha_iitk@Ubuntu:~$ gtkwave
 Gtk-Message: 18:12:13.444: Failed to load module "canberra-gtk-module"
+
+GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+
+GTKWAVE | Use the -h, --help command line flags to display help.
+```
+
+
 # Day 1 - Introduction to Verilog RTL Design and Synthesis
 ## Introduction to open-source simulator Iverilog
 
@@ -822,7 +829,3 @@ After logic synthesis in yosys we get
 
 <img width="1920" height="1042" alt="Image" src="https://github.com/user-attachments/assets/f04c5c1c-6766-46ae-a699-bf4c8de64a67">
 
-GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
-
-GTKWAVE | Use the -h, --help command line flags to display help.
-```
